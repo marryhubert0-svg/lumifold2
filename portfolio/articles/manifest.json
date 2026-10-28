@@ -1,0 +1,32 @@
+[
+  {
+    "name": "day1",
+    "title": "【红韵乡行三下乡】day1踏赴龙颈行｜从一场对话开始",
+    "source": "https://d.xiumius.cn/board/v5/7LC7A/713607713",
+    "is_release": true,
+    "assets": 27,
+    "failed": [
+      {
+        "url": "//res.wx.qq.com/mpres/zh_CN/htmledition/comm_htmledition/style/widget/pages/wx_video_z49d030.png",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "text_chars": 1329,
+    "bytes": 7016797
+  },
+  {
+    "name": "day3",
+    "title": "【红韵乡行三下乡】day3穿行龙颈乡野｜到访明月禾间汤泉民宿",
+    "source": "https://a.xiumius.cn/board/v5/71vsa/713762850",
+    "is_release": true,
+    "assets": 20,
+    "failed": [
+      {
+        "url": "//res.wx.qq.com/mpres/zh_CN/htmledition/comm_htmledition/style/widget/pages/wx_video_z49d030.png",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "text_chars": 836,
+    "bytes": 3221679
+  }
+]
